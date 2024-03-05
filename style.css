@@ -1,9 +1,10 @@
 
 .cabecalho{
-    background-color: #ff04f2;
+    background-color: #e0067e8f;
     color: rgb(153, 129, 129);
- 
-    
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
 }
  
 .imagem-cabecalho{ 
